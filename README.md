@@ -173,4 +173,9 @@ cd output/post_synth_sim/
 gtkwave post_synth_sim.vcd
 ```
 
+<img width="1017" height="527" alt="image" src="https://github.com/user-attachments/assets/6a264ee1-5928-4477-a9c0-56626b5500eb" />
+<img width="1025" height="655" alt="image" src="https://github.com/user-attachments/assets/25f6ed79-e8f5-4ec7-8c75-51def94e6bc7" />
+
+
+
 -----
